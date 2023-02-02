@@ -1,6 +1,6 @@
 # Veritabanı Yönetimi Dersi Dönem Projesi Backend Kodları
 
-      SQL sorguları kullanılarak Proje Oluşturlmuştur 
+      SQL sorguları kullanılarak Proje Oluşturulmuştur 
       
 Sistemde
 ev ekleme , ev silme ,evleri listeleme ve isme göre ev arama ; 
