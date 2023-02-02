@@ -10,7 +10,7 @@ yikilacak evler için yikim bilgilerini ekleme ,yikim için ödeme yapma işleml
 
 Veritabanında bir konut sahibinin 2 adetten fazla evi olmasını kısıtlayan bir adet trigger , odeme sırasında girilen tutarın ödenmesi gereken miktar ile aynı olmaması durumunda ödeme yapımını kabul etmeyen bir adet fonksiyon bulunmaktadır  yer almaktadır.
 
- 
+E-R Diyagramı
 ![E-R Diyagramı](https://user-images.githubusercontent.com/78111969/216316371-c4f21b48-8f8d-4105-9a6a-0d628a20994b.png)
 
       
