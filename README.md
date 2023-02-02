@@ -4,7 +4,8 @@
       
       Sistemde
       ev ekleme , ev silme ,evleri listeleme ve isme göre ev arama ; 
-      konut sahibi ekleme,konut sahipleirni listeleme,konut sahiplerinin evlerini listeleme,birden fazla evi olan konut sahiplerini listeleme ; 
+      konut sahibi ekleme,konut sahipleirni listeleme,konut sahiplerinin evlerini listeleme,
+      birden fazla evi olan konut sahiplerini listeleme ; 
       yikilacak evler için yikim bilgilerini ekleme ,yikim için ödeme yapma işlemleri yapılabilir.
 
 Veritabanında bir konut sahibinin 2 adetten fazla evi olmasını kısıtlayan bir adet trigger , odeme sırasında girilen tutarın ödenmesi gereken miktar ile aynı olmaması durumunda ödeme yapımını kabul etmeyen bir adet fonksiyon bulunmaktadır  yer almaktadır.
